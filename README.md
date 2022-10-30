@@ -24,19 +24,28 @@ With rapid increase in the usage of social networks sites across the world.. we 
 
       
 Methodology
+
 Requirement Engineering methods In the creation of this software, we used several commonly used software related to Shopping and studied their existing similarities and differences as well as their existing practices, user feedback, etc.
 
 Design method
+
 Based on the knowledge gained from studying the various applications, before beginning the implementation process, we used Figma prototyping tool to design the application.
 
 Development Tools and Technologies
+
 • IDE – Android Studio
+
 • Programming language – Java
+
 • Database – Firebase
+
 • Platform – Android
 
+
 Testing Methods
+
 Use different test case and identify the issues in our application
 
 Integration Methods
+
 GitHub will be our go-to option as we are provided with free access to all features with our student accounts.
