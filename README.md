@@ -43,9 +43,11 @@ Development Tools and Technologies
 
 
 Testing Methods
+-------------------------------------------------------------------
 
 Use different test case and identify the issues in our application
 
 Integration Methods
+-------------------------------------------------------------------
 
 GitHub will be our go-to option as we are provided with free access to all features with our student accounts.
