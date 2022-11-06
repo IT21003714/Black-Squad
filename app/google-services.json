@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205230845104",
+    "firebase_url": "https://mr-shopper-app-3f0e0-default-rtdb.firebaseio.com",
+    "project_id": "mr-shopper-app-3f0e0",
+    "storage_bucket": "mr-shopper-app-3f0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205230845104:android:275b46becd88a45ac0df75",
+        "android_client_info": {
+          "package_name": "com.example.mr_shopper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205230845104-5vhmrje1c04mlc0an8h4fib4r7n9abd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-oaz_cKBD40b50bEJBVD9OwTAFVuZjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205230845104-5vhmrje1c04mlc0an8h4fib4r7n9abd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

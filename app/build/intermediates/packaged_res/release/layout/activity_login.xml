@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE7F8"
+    tools:context=".activity_login">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/app_name"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/lniearlogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/img_update"
+                android:layout_width="match_parent"
+                android:layout_height="340dp"
+                android:contentDescription="@string/todo4"
+                app:srcCompat="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/txt_updatee"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/login"
+                android:textAlignment="center"
+                android:textColor="#fe5b52"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                tools:ignore="TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/txt_username_update"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/textview1"
+                android:textColor="#7868E5"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                tools:text="Email" />
+
+            <EditText
+                android:id="@+id/txt_username_updater"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="32dp"
+                android:autofillHints=""
+                android:background="@drawable/background_edit"
+                android:drawableStart="@drawable/user"
+                android:ems="10"
+                android:hint="@string/enter_your_email"
+                android:includeFontPadding="false"
+                android:inputType="textPersonName"
+                android:paddingStart="15dp"
+                android:singleLine="false"
+                android:textAlignment="textStart"
+                android:textColor="#404040"
+                android:textColorHint="#404040"
+                android:textSize="17sp"
+                android:verticalScrollbarPosition="left"
+                tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/txt_username_update"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/textview2"
+                android:textColor="#7868E5"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                tools:text="Password" />
+
+            <EditText
+                android:id="@+id/txt_password_email"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="32dp"
+                android:autofillHints=""
+                android:background="@drawable/background_edit"
+                android:drawableStart="@drawable/password"
+                android:drawableEnd="@drawable/hide"
+                android:ems="10"
+                android:hint="@string/enter_your_password"
+                android:inputType="textPersonName"
+                android:paddingStart="15dp"
+                android:paddingRight="10dp"
+                android:textColor="#404040"
+                android:textColorHint="#404040"
+                android:textSize="17sp"
+                tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/txtforget"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginBottom="15dp"
+                android:paddingEnd="8dp"
+                android:text="@string/forget_your_password_recovery"
+                android:textAlignment="textEnd"
+                android:textColor="#E15C52"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/img_facebook"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/facebook_1"
+                    tools:ignore="ImageContrastCheck"
+                    android:contentDescription="@string/todo6" />
+
+                <ImageView
+                    android:id="@+id/img_google"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/google"
+                    android:contentDescription="@string/todo5" />
+
+                <ImageView
+                    android:id="@+id/imge_twitter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/twitter"
+                    tools:ignore="ImageContrastCheck"
+                    android:contentDescription="@string/todo7" />
+            </LinearLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/btn_update"
+                    android:layout_width="228dp"
+                    android:layout_height="55dp"
+                    android:layout_marginTop="20dp"
+                    android:backgroundTint="#fe5b52"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="@string/login1"
+                    android:textAlignment="center"
+                    app:barrierAllowsGoneWidgets="false"
+                    app:chainUseRtl="false"
+                    app:cornerRadius="10dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.498"
+                    app:layout_constraintStart_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:ignore="TextContrastCheck,DuplicateSpeakableTextCheck" />
+
+                <TextView
+                    android:id="@+id/txtbottem"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="90dp"
+                    android:gravity="center"
+                    android:text="@string/don_t_have_an_account_sign_up"
+                    android:textAlignment="center"
+                    android:textColor="#616161"
+                    android:textSize="15sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/btn_update" />
+
+                <TextView
+                    android:id="@+id/txt_sginup"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="-100dp"
+                    android:clickable="false"
+                    android:cursorVisible="false"
+                    android:enabled="false"
+                    android:fadeScrollbars="false"
+                    android:filterTouchesWhenObscured="false"
+                    android:focusableInTouchMode="false"
+                    android:password="false"
+                    android:phoneNumber="false"
+                    android:text="@string/signup"
+                    android:textColor="#B81B1B"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/txtbottem"
+                    app:layout_constraintTop_toTopOf="@+id/txtbottem"
+                    tools:ignore="Deprecated,TextViewEdits" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

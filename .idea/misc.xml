@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/background_edit.xml" value="0.1" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/cart_back.xml" value="0.156" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/cart_backrount.xml" value="0.153" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.156" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.156" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/ic_baseline_shopping_bag_24.xml" value="0.156" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.156" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/ic_bottom_vector.xml" value="0.1" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/ic_top_vector.xml" value="0.1" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/my.xml" value="0.156" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/orange.xml" value="0.1" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/purple_backround.xml" value="0.1" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/search_edt.xml" value="0.12" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/viewholder_popular.xml" value="0.153" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/drawable/white_background.xml" value="0.121" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_activityupdate.xml" value="0.1" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_forget.xml" value="0.20512820512820512" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_message.xml" value="0.20512820512820512" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_paymen.xml" value="0.20512820512820512" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_profile.xml" value="0.20512820512820512" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_setting.xml" value="0.2" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_signup.xml" value="0.176" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/fragment_account.xml" value="0.176" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/fragment_all_orders.xml" value="0.2" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/fragment_card.xml" value="0.1875" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/fragment_oders.xml" value="0.2" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/viewholder_category.xml" value="0.4" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/layout/viewholder_popular.xml" value="0.536" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/menu/menu_bottem.xml" value="0.20253164556962025" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Mr_Shopper_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

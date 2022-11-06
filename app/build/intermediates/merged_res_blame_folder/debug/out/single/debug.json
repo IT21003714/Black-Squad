@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_viewholder_popular.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\viewholder_popular.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_cart_backrount.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\cart_backrount.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_white_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_ic_4.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\ic_4.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_top_background.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_viewholder_popular.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\viewholder_popular.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_email__1_.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\email__1_.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-36:/layout_activity_forget.xml.flat",
+        "source": "com.example.mr_shopper_app-main-38:/layout/activity_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_orange_background.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\orange_background.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_password1.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\password1.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_women1.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\women1.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\raw_shopp.json.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\raw\\shopp.json"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_email__4_.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\email__4_.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_email__3_.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\email__3_.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_image.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_blue_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\blue_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_ic_3.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\ic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_voice_call.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\voice_call.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_baseline_add_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_ic_7.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\ic_7.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_password.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_baseline_shopping_bag_24.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_baseline_shopping_bag_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_email__2_.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\email__2_.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_forget.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_ic_2.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\ic_2.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_home.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_orange_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\orange_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_background_login.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\background_login.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_green_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\green_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_women2.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\women2.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_viewholder_category.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\viewholder_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_baseline_supervisor_account_24.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_baseline_supervisor_account_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_lock.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_shop.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\shop.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_man.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_facebook_1.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\facebook_1.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_banner_background.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\banner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_ic_6.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\ic_6.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_shopping_cart__3_.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\shopping_cart__3_.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_bottom_vector.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_bottom_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_women3.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\women3.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_ic_1.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\ic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_background_signup.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\background_signup.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_background_edit.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\background_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_ic_8.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\ic_8.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_twitter.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-hdpi_home.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_search_edt.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\search_edt.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_women4.jpg.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\women4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_ic_5.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\ic_5.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_ic_top_vector.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\ic_top_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_search_icon.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_cart_back.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\cart_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_user.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_orange.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_purple_backround.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\purple_backround.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable_my.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable\\my.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_video_call.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\video_call.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\drawable-mdpi_hide.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\drawable-mdpi\\hide.png"
+    },
+    {
+        "merged": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\moham\\.gradle\\daemon\\7.3.3\\com.example.mr_shopper_app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

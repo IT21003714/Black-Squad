@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDE7F8"
+    tools:context=".activity_login">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/app_name"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/lniearlogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/img_update"
+                android:layout_width="match_parent"
+                android:layout_height="340dp"
+                android:contentDescription="@string/todo4"
+                app:srcCompat="@drawable/image" />
+
+            <TextView
+                android:id="@+id/txt_forget"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/forget_password"
+                android:textAlignment="center"
+                android:textColor="#fe5b52"
+                android:textSize="35sp"
+                android:textStyle="bold"
+                tools:ignore="TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/singupname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/textview1"
+                android:textColor="#7868E5"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                tools:text="Email" />
+
+            <EditText
+                android:id="@+id/singup_email"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="32dp"
+                android:autofillHints=""
+                android:background="@drawable/background_edit"
+                android:ems="10"
+                android:hint="@string/enter_your_email"
+                android:includeFontPadding="false"
+                android:inputType="textPersonName"
+                android:paddingStart="15dp"
+                android:singleLine="false"
+                android:textAlignment="textStart"
+                android:textColor="#404040"
+                android:textColorHint="#404040"
+                android:textSize="17sp"
+                android:verticalScrollbarPosition="left"
+                tools:ignore="RtlSymmetry,TextContrastCheck,TextFields" />
+
+            <TextView
+                android:id="@+id/singup_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/new_password"
+                android:textColor="#7868E5"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                tools:text="@string/new_password"
+                tools:ignore="DuplicateIds" />
+
+            <EditText
+                android:id="@+id/singup_pwd"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="32dp"
+                android:autofillHints=""
+                android:background="@drawable/background_edit"
+                android:ems="10"
+                android:hint="@string/enter_your_password"
+                android:inputType="textPersonName"
+                android:paddingStart="15dp"
+                android:paddingEnd="10dp"
+                android:textColor="#404040"
+                android:textColorHint="#404040"
+                android:textSize="17sp"
+                tools:ignore="DuplicateSpeakableTextCheck,RtlSymmetry,TextContrastCheck,TextFields" />
+
+            <TextView
+                android:id="@+id/txt_update_password_for_het"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/confirm_password"
+                android:textColor="#7868E5"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                tools:text="Confirm Password" />
+
+            <EditText
+                android:id="@+id/forget_new_pwd"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="35dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="32dp"
+                android:autofillHints=""
+                android:background="@drawable/background_edit"
+                android:ems="10"
+                android:hint="@string/enter_your_password"
+                android:inputType="textPersonName"
+                android:paddingStart="15dp"
+                android:paddingEnd="10dp"
+                android:textColor="#404040"
+                android:textColorHint="#404040"
+                android:textSize="17sp"
+                tools:ignore="RtlSymmetry,TextContrastCheck" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/btn_singup"
+                    android:layout_width="228dp"
+                    android:layout_height="55dp"
+                    android:layout_marginTop="20dp"
+                    android:backgroundTint="#fe5b52"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="@string/change_password"
+                    android:textAlignment="center"
+                    app:barrierAllowsGoneWidgets="false"
+                    app:chainUseRtl="false"
+                    app:cornerRadius="10dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.498"
+                    app:layout_constraintStart_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:ignore="TextContrastCheck,DuplicateSpeakableTextCheck" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

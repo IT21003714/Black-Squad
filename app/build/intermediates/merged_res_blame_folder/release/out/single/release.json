@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-hdpi_home.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_logo.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_baseline_add_shopping_cart_24.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_activity_splash.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_baseline_shopping_bag_24.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_baseline_shopping_bag_24.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_background_edit.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/background_edit.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_activity_login.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_password.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/password.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_fragment_card.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/fragment_card.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_user.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/user.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_activity_forget.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/activity_forget.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_fragment_account.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mr_shopper_app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_purple_backround.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/purple_backround.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/raw_shopp.json.flat",
+        "source": "com.example.mr_shopper_app-main-31:/raw/shopp.json"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-ldpi_logo.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_hide.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/hide.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_lock.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/lock.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_password1.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/password1.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_image.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/image.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_activity_home.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_shop.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/shop.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_top_vector.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_top_vector.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_facebook.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/facebook.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_bottom_vector.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_bottom_vector.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-v24_ic_1.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-v24/ic_1.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_women4.jpg.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/women4.jpg"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_twitter.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/twitter.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_facebook_1.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/facebook_1.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_orange_background.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/orange_background.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-v24_profile.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-v24/profile.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_women1.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/women1.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_fragment_oders.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/fragment_oders.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_fragment_home.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/layout_activity_signup.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-v24_top_background.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-v24/top_background.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable_ic_baseline_supervisor_account_24.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable/ic_baseline_supervisor_account_24.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-hdpi_logo.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/drawable-mdpi_google.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/drawable-mdpi/google.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/menu_menu_bottem.xml.flat",
+        "source": "com.example.mr_shopper_app-main-31:/menu/menu_bottem.xml"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mr_shopper_app-merged_res-30:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mr_shopper_app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    }
+]
